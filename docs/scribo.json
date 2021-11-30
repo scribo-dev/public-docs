@@ -1,0 +1,44 @@
+{
+  "sidebar": [
+    {
+      "type": "category",
+      "label": "Getting Started",
+      "items": [
+        {
+          "label": "New Team",
+          "href": "getting-started"
+        },
+        {
+          "label": "Repository Configuration",
+          "href": "config"
+        },
+        {
+          "label": "Updating",
+          "href": "updating"
+        },
+        {
+          "label": "Docs",
+          "href": "docs"
+        },
+        {
+          "label": "Versioning",
+          "href": "versions"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "label": "API Specifications",
+      "items": [
+        {
+          "label": "Overview",
+          "href": "api-overview"
+        },
+        {
+          "label": "OpenAPI/Swagger",
+          "href": "api-format"
+        }
+      ]
+    }
+  ]
+}
