@@ -13,6 +13,36 @@
           "href": "getting-started"
         }
       ]
+    },
+    {
+      "type": "category",
+      "label": "Components",
+      "items": [
+        {
+          "label": "Card",
+          "href": "components/card"
+        },
+        {
+          "label": "Container",
+          "href": "components/container"
+        },
+        {
+          "label": "Text",
+          "href": "components/text"
+        },
+        {
+          "label": "Link",
+          "href": "components/link"
+        },
+        {
+          "label": "Button",
+          "href": "components/button"
+        },
+        {
+          "label": "Data",
+          "href": "components/data"
+        }
+      ]
     }  
   ]
 }
