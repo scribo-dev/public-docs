@@ -1,5 +1,4 @@
-{
-  "sidebar": [
+[
     {
       "type": "category",
       "label": "Getting Started",
@@ -45,4 +44,4 @@
       ]
     }  
   ]
-}
+
