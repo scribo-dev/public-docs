@@ -4,7 +4,7 @@
 
 The `Card` component is one of the core components of Scribo. It is used to delimiter an area where other components will live and are mostly used to group and layout. If you are coming from a web development background, a `Card` is mainly a `div`.
 
-## Card Properties
+## Properties
 
 | Property | Type   | Description                       |
 | -------- | ------ | --------------------------------- |

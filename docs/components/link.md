@@ -26,7 +26,7 @@ Using relative URLs in the link property will help Scribo to optimize the user n
 
 To create a link to an external website, just fill the link property with the full URL
 
-## Image Properties
+## Properties
 
 | Property | Type   | Description                       |
 | -------- | ------ | --------------------------------- |
