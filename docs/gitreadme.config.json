@@ -20,6 +20,36 @@
     },
     {
       "type": "category",
+      "label": "Editor",
+      "items": [
+        {
+          "label": "Overview",
+          "href": "editor/overview.md"
+        },
+        {
+          "label": "Layers",
+          "href": "editor/layers.md"
+        },
+        {
+          "label": "Devices",
+          "href": "editor/devices.md"
+        },
+        {
+          "label": "Style",
+          "href": "editor/style.md"
+        },
+        {
+          "label": "Network Tab",
+          "href": "editor/network-tab.md"
+        },
+        {
+          "label": "Console Tab",
+          "href": "editor/console-tab.md"
+        }
+      ]
+    },
+    {
+      "type": "category",
       "label": "Components",
       "items": [
         {
