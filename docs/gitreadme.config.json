@@ -24,27 +24,27 @@
       "items": [
         {
           "label": "Overview",
-          "href": "editor/overview.md"
+          "href": "editor/overview"
         },
         {
           "label": "Layers",
-          "href": "editor/layers.md"
+          "href": "editor/layers"
         },
         {
           "label": "Devices",
-          "href": "editor/devices.md"
+          "href": "editor/devices"
         },
         {
           "label": "Style",
-          "href": "editor/style.md"
+          "href": "editor/style"
         },
         {
           "label": "Network Tab",
-          "href": "editor/network-tab.md"
+          "href": "editor/network-tab"
         },
         {
           "label": "Console Tab",
-          "href": "editor/console-tab.md"
+          "href": "editor/console-tab"
         }
       ]
     },
