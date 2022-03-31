@@ -13,7 +13,7 @@ The `Loop` component should be used when you would like to repeat the same child
 
 ## Example
 
-Let's use the pokemon API to create a list of the first generation of pokemons. First, add a `Data` component to your page with the following properties:
+Let's use the pokemon API to create a list of the first generation of pokemons. First, add a `Data` component to your page with the URL property set to:
 
 https://pokeapi.co/api/v2/pokemon?limit=150
 
