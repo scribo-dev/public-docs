@@ -43,7 +43,7 @@
           "href": "editor/network-tab"
         },
         {
-          "label": "Console Tab",
+          "label": "Logs Tab",
           "href": "editor/console-tab"
         }
       ]
