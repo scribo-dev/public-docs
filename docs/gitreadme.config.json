@@ -35,8 +35,8 @@
           "href": "editor/devices"
         },
         {
-          "label": "Style",
-          "href": "editor/style"
+          "label": "Properties",
+          "href": "editor/properties-panel"
         },
         {
           "label": "Network Tab",
