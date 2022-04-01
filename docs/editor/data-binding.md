@@ -1,6 +1,6 @@
 # Data Binding 
 
-When working with dynamic data provided, for example, by the (Data component)[/components/data] you will need to use the `Data Binding` tab to fill your component's properties.
+When working with dynamic data provided, for example, by the [Data component](/components/data) you will need to use the `Data Binding` tab to fill your component's properties.
 
 Let's suppose that your layer tree is the following:
 
