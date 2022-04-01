@@ -39,6 +39,10 @@
           "href": "editor/properties-panel"
         },
         {
+          "label": "Data Binding",
+          "href": "editor/data-binding"
+        },
+        {
           "label": "Network Tab",
           "href": "editor/network-tab"
         },
