@@ -2,7 +2,7 @@
 
 ![Properties Panel](assets/properties-panel.png)
 
-When you select any component in the [Layers Tree](/layers) the properties panel will be revealed at the right sidebar. It can be separated into 4 sections:
+When you select any component in the [Layers Tree](./layers) the properties panel will be revealed at the right sidebar. It can be separated into 4 sections:
 
 - Conditional Properties
 - Component Properties
