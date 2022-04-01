@@ -12,6 +12,6 @@ To access the logs, click on the button located at the bottom right of the edito
 
 ## Details
 
-![Console Details](assets/console-details.png)
+![Console Details](assets/console-detail.png)
 
 In the details panel, you will find information about the log/error and a link to the component where it was generated.
