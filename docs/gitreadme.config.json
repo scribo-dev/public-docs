@@ -1,4 +1,10 @@
 {
+  "menus": [
+    {
+      "label": "Price",
+      "href": "https://scribo.dev/scribo/pricing"
+    }
+  ],
   "sidebar": [
     {
       "type": "category",
