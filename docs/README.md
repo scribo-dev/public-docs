@@ -1,32 +1,15 @@
 # Scribo Dev
 
-![Docs](assets/getting-started-home.png)
+![Scribo Integration](assets/integration.png)
 
-Scribo is a platform that helps teams publish and manage technical documentation. We know that documenting is hard, so we would like to simplify this process.
+**Much more than a static page builder**
 
-## Philosophy
+With a drag n' drop interface, Scribo provides a dozen of powerful components that will help you create beautiful and dynamic web apps. These are not just simple HTML elements, we provide, for example, components that can fetch data from external APIs and animation blocks that will make your pages stand out from the crowd
 
-### Your docs, your data
+**Design + Development in the same place**
 
-All documents are stored in your personal/team GitHub account. We only sync this files in order to index and provide a nice search experience.
+Unlike other no-code builders, Scribo does not limit developers and designers. When necessary, we provide all the tools that developers need to create complex state management, and all the style flexibility that designers need to create beautiful apps
 
-### You shouldn't need to use new tools.
+**Headless integration**
 
-You already have your development setup. Just use your favorite code editor and create documents using the already familiar markdown. If you are not a developer, don't worry, GitHub has a great markdown editor.
-
-### Find your company's knowledge
-
-Having many pages of documents doesn't matter if you can't find what you need. Your search engine indexes every word so, hopefully, you will find every piece of information quickly.
-
-## How it works
-
-![Sync Diagram](assets/sync.png)
-
-As said before, Scribo pulls all docs directly and automatically from GitHub. Just:
-
-1. Clone your template repository
-2. Install our app
-3. Commit your first change
-
-And that's all. You website should be up and running
-test
+Scribo can integrate with many Headless services, from CMS to e-commerce platforms. More than that you can connect to any API or GraphQL and create really dynamic apps
