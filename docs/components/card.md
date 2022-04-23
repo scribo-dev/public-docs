@@ -1,3 +1,7 @@
+---
+title: Card Component
+description: Card Component specs
+---
 # Card Component
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/o5TMQQnN8Ec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
