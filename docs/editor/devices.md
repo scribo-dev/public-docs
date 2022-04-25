@@ -1,3 +1,7 @@
+---
+title: Screen Sizes
+description: How to test your app in multiple devices and screen sizes
+---
 # Devices and screen sizes
 
 ![Devices](assets/devices.png)

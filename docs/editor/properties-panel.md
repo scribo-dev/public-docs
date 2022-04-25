@@ -1,3 +1,7 @@
+---
+title: Properties Panel
+description: How to edit the component's properties
+---
 # Properties Panel
 
 ![Properties Panel](assets/properties-panel.png)

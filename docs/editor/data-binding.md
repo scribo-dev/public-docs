@@ -1,3 +1,7 @@
+---
+title: Data Binding
+description: How to work with dynamic values in the editor
+---
 # Data Binding 
 
 When working with dynamic data provided, for example, by the [Data component](../components/data) you will need to use the `Data Binding` tab to fill your component's properties.

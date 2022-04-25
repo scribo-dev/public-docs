@@ -1,3 +1,7 @@
+---
+title: Editor Overview
+description: Getting to know Scribo editor
+---
 # Editor Overview
 
 ![Overview](assets/overview.png)

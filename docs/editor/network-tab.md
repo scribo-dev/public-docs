@@ -1,3 +1,7 @@
+---
+title: Network Tab
+description: Editor tab to debug network requests
+---
 # Network Tab
 
 The Network Tab will show information about all the HTTP requests your page makes. It is specially useful when you use the [Data](../components/data) or [DataGraphQL](components/data-graphql).

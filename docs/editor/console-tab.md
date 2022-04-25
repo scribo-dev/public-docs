@@ -1,3 +1,7 @@
+---
+title: Console Tab
+description: Editor tab to debug logs from the application
+---
 # Logs Tab
 
 ![Console List](assets/console.png)

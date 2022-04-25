@@ -1,3 +1,7 @@
+---
+title: Tree Layer
+description: How to organize elements in a page
+---
 # Layers Tree
 
 ![Layer Tree](assets/layer-tree.png)
