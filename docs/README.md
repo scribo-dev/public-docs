@@ -1,3 +1,7 @@
+---
+title: What's is Scribo
+description: Much more than a static page builder
+---
 # Scribo Dev
 
 ![Scribo Integration](assets/integration.png)
