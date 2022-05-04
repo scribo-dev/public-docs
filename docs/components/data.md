@@ -19,3 +19,11 @@ The `Data` component is used for requesting dynamic content from an API. This in
 | Proxy     | checkbox | If checked, the HTTP request will be made by our server. Useful for avoiding CORS errors |
 | Refresh Interval     | text | Interval in which the request should be remade. Useful for pooling data and always displaying the most recent information  |
 | Data Transformation     | code | code to manipulate the information returned by the API |
+
+## Exported Properties
+
+| Property | Type   | Description                       |
+| -------- | ------ | --------------------------------- |
+| dataLoading     | boolean | Boolean indicating if the data has already been loaded or not |
+| dataError     | Object | Error message when the HTTP request was not completed with success |
+| dataRefresh     | function | use this function when you want to refresh the current HTTP request |
