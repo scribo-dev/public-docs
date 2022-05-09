@@ -13,6 +13,16 @@ But when working on a big team, you usually need a more powerful versioning cont
 
 Scribo provides a **GitHub Sync** integration for this type of work where you can link your team to a specific GitHub repository. In this mode, you will not be able to "Publish" your changes from the Editor. **Every change to the main branch, will automatically be deployed to your team's production app**. This process is made by our [GitHub App](https://github.com/apps/scribo-dev-sync) that acts like a Continuous Deployment (CD) tool
 
+```mermaid
+graph LR
+    A(fa:fa-desktop Web) --> B(fa:fa-edit Editor)
+    B --> |Save commits|C(fa:fa-cloud GitHub)
+    
+
+    D(fa:fa-sync GitHub App) --> |Sync Main Branch|C 
+    D --> |Update Production|E(fa:fa-cloud Production)
+```
+
 
 
 ## Setup
