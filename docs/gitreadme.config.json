@@ -55,6 +55,10 @@
         {
           "label": "Logs Tab",
           "href": "editor/console-tab"
+        },
+        {
+          "label": "GitHub Sync",
+          "href": "editor/github-sync"
         }
       ]
     },
