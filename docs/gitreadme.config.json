@@ -57,6 +57,10 @@
           "href": "editor/console-tab"
         },
         {
+          "label": "Config Variables",
+          "href": "editor/config-variables"
+        },
+        {
           "label": "GitHub Sync",
           "href": "editor/github-sync"
         }
