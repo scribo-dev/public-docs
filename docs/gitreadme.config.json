@@ -15,6 +15,10 @@
           "href": "getting-started/first-page"
         },
         {
+          "label": "Custom Domains",
+          "href": "getting-started/custom-domains"
+        },
+        {
           "label": "Notion Blog",
           "href": "getting-started/notion-blog"
         },
