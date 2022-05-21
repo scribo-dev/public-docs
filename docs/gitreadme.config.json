@@ -53,6 +53,14 @@
           "href": "editor/data-binding"
         },
         {
+          "label": "Save and Publish",
+          "href": "editor/save-publish.md"
+        },
+        {
+          "label": "History",
+          "href": "editor/history.md"
+        },
+        {
           "label": "Network Tab",
           "href": "editor/network-tab"
         },
