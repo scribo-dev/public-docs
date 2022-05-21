@@ -41,6 +41,10 @@
           "href": "editor/layers"
         },
         {
+          "label": "Templates",
+          "href": "editor/templates"
+        },
+        {
           "label": "Devices",
           "href": "editor/devices"
         },
