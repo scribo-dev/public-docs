@@ -19,4 +19,4 @@ This distinction helps you develop new features without impacting your productio
 
 ## Limitations
 
-Since Scribo limits you to having two versions, working simultaneously on multiple new features can be challenging. To solve this problem, we recommend you to switch to our [GitHub Sync Integration](/editor/GitHub-sync) or use a "Feature Flag" approach, like hiding some functionality using conditions and parameters on the URL.
+Since Scribo limits you to having two versions, working simultaneously on multiple new features can be challenging. To solve this problem, we recommend you to switch to our [GitHub Sync Integration](./github-sync) or use a "Feature Flag" approach, like hiding some functionality using conditions and parameters on the URL.
