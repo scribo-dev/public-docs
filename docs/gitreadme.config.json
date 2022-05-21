@@ -54,11 +54,11 @@
         },
         {
           "label": "Save and Publish",
-          "href": "editor/save-publish.md"
+          "href": "editor/save-publish"
         },
         {
           "label": "History",
-          "href": "editor/history.md"
+          "href": "editor/history"
         },
         {
           "label": "Network Tab",
