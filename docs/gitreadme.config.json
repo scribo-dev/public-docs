@@ -149,6 +149,10 @@
           "href": "components/loop"
         },
         {
+          "label": "Form",
+          "href": "components/form"
+        },
+        {
           "label": "DataGraphQL",
           "href": "components/data-graphql"
         }
