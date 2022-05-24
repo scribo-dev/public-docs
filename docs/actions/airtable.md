@@ -1,6 +1,6 @@
 # AirTable Action
 
-![AirTable Node](assets/airtable-node.png)
+![AirTable Node](assets/airtable-node-2.png)
 
 Save some data to an AirTable database. For this integration to work, you will need to collect some information:
 
