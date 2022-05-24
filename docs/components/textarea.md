@@ -4,7 +4,7 @@ description: Text Area Field Component specs
 ---
 # Text Area Field Component
 
-![Text Area Field](assets/Text Area-field.png)
+The Text Area component is similar to the Field component, with the difference that this one supports multi-line text.
 
 ## Properties
 
