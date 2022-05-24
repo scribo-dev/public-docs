@@ -99,6 +99,10 @@
           "href": "actions/navigate-route"
         },
         {
+          "label": "Condition",
+          "href": "actions/condition"
+        },
+        {
           "label": "JS Code",
           "href": "actions/js-code"
         },
