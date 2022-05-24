@@ -133,6 +133,10 @@
           "href": "components/link"
         },
         {
+          "label": "Button",
+          "href": "components/button"
+        },
+        {
           "label": "Image",
           "href": "components/image"
         },
