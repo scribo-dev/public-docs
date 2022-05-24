@@ -161,6 +161,10 @@
           "href": "components/select-field"
         },
         {
+          "label": "Text Area Field",
+          "href": "components/textarea"
+        },
+        {
           "label": "DataGraphQL",
           "href": "components/data-graphql"
         }
