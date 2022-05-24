@@ -1,12 +1,12 @@
 # Actions Overview
 
-Some components on our library support user interactions, like:
+Some components of our library support user interactions, like:
 
 - Button clicks
-- Forms submition
+- Forms submission
 - Form change
 
-Those type of events are handled on Scribo on a workflow style where you can combine multiple action like execute a JS code, navigate to a route, send form data to Google Sheets and much more.
+Those types of events are handled on Scribo in a workflow style where you can combine multiple actions like executing a JS code, navigating to a route, sending form data to Google Sheets, and much more.
 
 Here is a simple example of a button "On Click" event:
 
@@ -14,15 +14,15 @@ Here is a simple example of a button "On Click" event:
 
 ## Events Sources
 
-Every component that has an "Actions" property will start with the user event. Some examples are:
+Every component with an "Actions" property will start with the user event. Some examples are:
 
 - On click → Button Component
 - On submit → Form Component
 
 ## Actions
 
-Actions define what you want to do when the user execute the corresponding event. There are lots of available actions on the editor. Some are low level, like execute a custom JavaScript code and others are full integration with other services, like save some data to an AirTable database.
+Actions define what you want to do when the user executes the corresponding event. There are lots of available actions on the editor. Some are low-level, like executing a custom JavaScript code and others are full integration with other services, like saving some data to an AirTable database.
 
-Combining action can be a really powerful tool to create complex business logic without any code. The following example illustrates a workflow where if the user that is submitting a form has a company size bigger than 10 members, their data will be stored on a special AirTable Database.
+Combining action can be a potent tool to create complex business logic without any code. The following example illustrates a workflow where if the user submitting a form has a company size bigger than ten members, their data will be stored on a special AirTable Database.
 
 ![On Submit](assets/form-action.png)
