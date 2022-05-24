@@ -153,6 +153,10 @@
           "href": "components/form"
         },
         {
+          "label": "Field",
+          "href": "components/field"
+        },
+        {
           "label": "DataGraphQL",
           "href": "components/data-graphql"
         }
