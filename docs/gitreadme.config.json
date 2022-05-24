@@ -157,6 +157,10 @@
           "href": "components/field"
         },
         {
+          "label": "Select Field",
+          "href": "components/select-field"
+        },
+        {
           "label": "DataGraphQL",
           "href": "components/data-graphql"
         }
