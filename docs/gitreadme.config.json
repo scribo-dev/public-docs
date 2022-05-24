@@ -88,6 +88,24 @@
     },
     {
       "type": "category",
+      "label": "Actions",
+      "items": [
+        {
+          "label": "Overview",
+          "href": "actions/overview"
+        },
+        {
+          "label": "Navigate to Route",
+          "href": "actions/navigate-route"
+        },
+        {
+          "label": "JS Code",
+          "href": "actions/js-code"
+        }
+      ]
+    },
+    {
+      "type": "category",
       "label": "Components",
       "items": [
         {
