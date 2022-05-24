@@ -101,6 +101,14 @@
         {
           "label": "JS Code",
           "href": "actions/js-code"
+        },
+        {
+          "label": "Google Sheets",
+          "href": "actions/google-sheets"
+        },
+        {
+          "label": "AirTable",
+          "href": "actions/airtable"
         }
       ]
     },
