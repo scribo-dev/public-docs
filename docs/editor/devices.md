@@ -10,9 +10,9 @@ Right from the editor, you can preview your page on multiple devices. At the cen
 
 | Device | Property Name   |Screen width   |
 | -------- | ------ | ------ |
-| Small Screen     | sm | 400 pixels |
-| Medium Screen     | md | 800 pixels |
-| Large Screen     | lg | 1100 pixels |
+| Small Screen     | sm | 640 pixels |
+| Medium Screen     | md | 768 pixels |
+| Large Screen     | lg | 1024 pixels |
 | Extra Large Screen     | xl | 1920 pixels |
 
 ## Style for device
@@ -37,7 +37,7 @@ Every component on the page will have access to a property called `breakpoints` 
 ```
 **Important**: Scribo uses a **mobile-first** approach. This means that each of the `breakpoints` property flags will turn true as soon as the screen size limit is reached. For example:
 
-- If `md` is true, it means that the screen size is equal to or higher than 800 pixels
+- If `md` is true, it means that the screen size is equal to or higher than 768 pixels
 - If `md` is false, you might be working on mobile screen size.
 
 
