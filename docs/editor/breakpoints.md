@@ -1,2 +1,0 @@
-# Breakpoints and Responsive Layout
-
