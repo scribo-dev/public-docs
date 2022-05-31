@@ -29,6 +29,10 @@
         {
           "label": "Airtable Form",
           "href": "getting-started/airtable-form"
+        },
+        {
+          "label": "Not Found Page",
+          "href": "getting-started/not-found"
         }
       ]
     },
