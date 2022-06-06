@@ -9,11 +9,11 @@ On Scribo, you work on two different versions:
 
 Every change that you save on the editor will change what we call the "Development Version". This version is the one that you see by clicking on the Preview button at the top right of the editor or accessing the URL:
 
-https://app.scribo.dev/YOUR_TEAM_NAME
+app.scribo.dev/YOUR_TEAM_NAME
 
 Clicking on the "Publish" button will take a snapshot of the current "Development Version" and mark it as the new "Production Version" of your team's application. This version will be available at:
 
-https://YOUR_TEAM_NAME.scribo.dev
+YOUR_TEAM_NAME.scribo.dev
 
 This distinction helps you develop new features without impacting your production application.
 
