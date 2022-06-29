@@ -4,6 +4,8 @@ description: How to trigger a Zapier Zap
 ---
 # Zapier Trigger
 
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/6aUeSaSEpU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Invite Only** please contact our team to help you set up this integration
 
 Scribo provides a native integration with Zapier. With it you can trigger a zap on, for example, a form submition or a button click.
