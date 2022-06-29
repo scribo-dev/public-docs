@@ -4,6 +4,8 @@ description: How to trigger a Make Scenario
 ---
 # Make.com Trigger
 
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/Cojv6ndGMzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Invite Only** please contact our team to help you set up this integration
 
 Scribo provides a native integration with Make. With it you can trigger a scenario on, for example, a form submition or a button click.
