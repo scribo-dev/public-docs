@@ -4,7 +4,7 @@ description: How to trigger a Zapier Zap
 ---
 # Zapier Trigger
 
-**Invite Only** please contact our team to help you setting up this integration
+**Invite Only** please contact our team to help you set up this integration
 
 Scribo provides a native integration with Zapier. With it you can trigger a zap on, for example, a form submition or a button click.
 To configure this integration you will need to:
