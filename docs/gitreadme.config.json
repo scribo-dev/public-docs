@@ -121,6 +121,10 @@
         {
           "label": "Zapier",
           "href": "actions/zapier"
+        },
+        {
+          "label": "Make.com",
+          "href": "actions/make"
         }
       ]
     },
