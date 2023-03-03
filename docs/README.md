@@ -17,3 +17,5 @@ Unlike other no-code builders, Scribo does not limit developers and designers. W
 **Headless integration**
 
 Scribo can integrate with many Headless services, from CMS to e-commerce platforms. More than that you can connect to any API or GraphQL and create really dynamic apps
+
+teste
