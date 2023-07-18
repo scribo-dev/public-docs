@@ -37,6 +37,10 @@
         {
           "label": "Not Found Page",
           "href": "getting-started/not-found"
+        },
+        {
+          "label": "Google Tag Manager",
+          "href": "getting-started/google-tag-manager"
         }
       ]
     },
