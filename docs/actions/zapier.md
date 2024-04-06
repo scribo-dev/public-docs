@@ -33,7 +33,7 @@ When you start with the authentication process, a popup like the bellow will app
 
 ![Zapier Auth](assets/zapier-auth.png)
 
-The API Key can be generated at our [Dashboard](https://app.scribo.dev/api-keys)
+The API Key can be generated at our [Dashboard](https://app.scribo.dev/keys)
 
 ![New API Key](assets/api-key.png)
 
