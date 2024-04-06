@@ -30,7 +30,7 @@ Click on the the `Add` button to create a new webhook. A new popup will appear a
 
 ![Make New Connection](assets/make-webhook.png)
 
-Make will ask you for an API key that can be can be generated at our [Dashboard](https://app.scribo.dev/api-keys)
+Make will ask you for an API key that can be can be generated at our [Dashboard](https://app.scribo.dev/keys)
 
 ![Make API Key](assets/make-api-key.png)
 
